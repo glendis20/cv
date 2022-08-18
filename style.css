@@ -1,0 +1,74 @@
+*{
+margin: 0;
+}
+.banner{
+    background-image: url(./images/coding-g87f31eaba_1920.jpg);
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+
+}
+.persona{
+    margin: 100px 600px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+
+
+}.name{
+    background-color: #4361ee;
+    height: 100px;
+    color: aliceblue;
+    font-size: 36px;
+    text-align: center;
+    padding-top: 10px;
+    margin-bottom: 80px;
+}
+.link{
+    color: aliceblue;
+    font-size: 18px;
+    text-decoration: none;
+    float: right;
+    margin-right: 10px;
+    padding: 2px;
+    border: 1px aliceblue solid;
+}
+#personal{
+    background-color: #4361ee;
+    height: 40px;
+    color: aliceblue;
+    font-size: 24px; 
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    
+}
+.box{
+    margin-bottom:20px;
+}
+.close{
+    background-color: #4361ee;
+    height: 100px;
+}
+.word{
+    font-size: 20px;
+    margin: 20px;
+}
+.cafe{
+    float: right;
+    width: 600px;
+    margin: 20px;
+}
+.red{
+   text-align: center;
+   padding: 20px;
+}
+.redes{
+    width: 30px;
+
+}.copy{
+    color: aliceblue; 
+    font-size: 18px;  
+    text-align: center;
+    padding-top: 10px;
+}
